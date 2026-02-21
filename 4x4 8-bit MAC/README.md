@@ -8,21 +8,6 @@ MAC units are fundamental building blocks in digital signal processing and AI ac
 
 ---
 
-## What is a MAC?
-
-A MAC performs the following operation:
-
-**accumulator = accumulator + (A × B)**
-
-This operation is the foundation of matrix multiplication, convolutional neural networks, digital filters (FIR/IIR), and many signal processing pipelines. In hardware accelerators, MAC units enable high-throughput parallel computation.
-
-In this design:
-
-- Inputs are **signed 8-bit integers**
-- Accumulation is performed using **signed 32-bit precision**
-
----
-
 ## Design Architecture
 
 The design follows a **hierarchical and modular architecture**.
