@@ -1,4 +1,3 @@
-
 # 2×2 MAC Array Design Project
 
 ## Project Overview
