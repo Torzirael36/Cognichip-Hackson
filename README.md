@@ -119,5 +119,5 @@ Where i, j ∈ {0, 1}.
 parameter DATA_WIDTH = 8;   // Input data width
 parameter ACC_WIDTH  = 20;  // Accumulator width
 
-## Demo link
+### Demo link
 https://youtu.be/02nDIMiR23w
